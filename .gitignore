@@ -37,6 +37,10 @@ wheels/
 
 # Data files (but keep models/)
 *.csv
+!train.csv
+!test.csv
+!sample_submission.csv
+!HOUSE_data.csv
 data/
 *.xlsx
 *.xls
