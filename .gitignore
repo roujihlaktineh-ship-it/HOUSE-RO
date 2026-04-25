@@ -35,13 +35,7 @@ wheels/
 *~
 .DS_Store
 
-# Models and artifacts
-models/
-*.pkl
-*.joblib
-*.h5
-
-# Data files
+# Data files (but keep models/)
 *.csv
 data/
 *.xlsx
